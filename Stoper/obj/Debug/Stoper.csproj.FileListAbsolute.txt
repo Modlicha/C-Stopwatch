@@ -1,0 +1,10 @@
+C:\Users\barte\source\repos\Stoper\Stoper\bin\Debug\Stoper.exe.config
+C:\Users\barte\source\repos\Stoper\Stoper\bin\Debug\Stoper.exe
+C:\Users\barte\source\repos\Stoper\Stoper\bin\Debug\Stoper.pdb
+C:\Users\barte\source\repos\Stoper\Stoper\obj\Debug\Stoper.csprojAssemblyReference.cache
+C:\Users\barte\source\repos\Stoper\Stoper\obj\Debug\Stoper.Form1Stoper.resources
+C:\Users\barte\source\repos\Stoper\Stoper\obj\Debug\Stoper.Properties.Resources.resources
+C:\Users\barte\source\repos\Stoper\Stoper\obj\Debug\Stoper.csproj.GenerateResource.cache
+C:\Users\barte\source\repos\Stoper\Stoper\obj\Debug\Stoper.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\Stoper\Stoper\obj\Debug\Stoper.exe
+C:\Users\barte\source\repos\Stoper\Stoper\obj\Debug\Stoper.pdb
